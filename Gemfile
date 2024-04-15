@@ -67,3 +67,5 @@ group :test do
 end
 
 gem 'stripe'
+gem 'shoryuken'
+gem 'aws-sdk-sqs'
