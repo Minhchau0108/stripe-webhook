@@ -65,3 +65,7 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+gem 'stripe'
+gem 'shoryuken'
+gem 'aws-sdk-sqs'

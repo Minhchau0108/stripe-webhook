@@ -1,0 +1,3 @@
+concurrency: 5
+queues:
+  - ["test-stripe-queue", 1]
